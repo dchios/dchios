@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @dchios
-- 👀 I’m interested in Data analytics
-- 🌱 I’m currently learning Data analysis tools
-- 💞️ I’m looking to collaborate on Hospitality Data solutions 
-- 📫 How to reach me [(www.fusionbeetroot.com)]
-- 😄 Pronouns: Dimitris Chios [(https://www.linkedin.com/in/dimitris-chios-a793a62a1/)]
-  
-
-<!---
-dchios/dchios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+With nearly 30 years of experience in the hospitality industry, including senior roles in city hotels, luxury resorts, and international chains, I’ve built a career grounded in operational leadership, financial strategy, and data-informed decision-making. As a Food & Beverage Manager since 2010, I’ve overseen multimillion-euro budgets, designed daily workflow pipelines, led cross-functional teams, and implemented reporting systems that improved performance and accountability.
+Throughout my career, I’ve relied on data to guide strategic choices, optimize operations, and elevate guest experiences. From forecasting and cost control to performance tracking and project planning, data has been central to how I lead and innovate. Recognizing the growing importance of analytics, I recently completed a 7-month specialization in Data Analysis at the University of Athens, alongside advanced training from Microsoft MVPs.
+Through this journey, I’ve developed practical experience with tools such as Power BI, SQL, Power Pivot, and Power Query. I’ve built interactive dashboards, worked with ETL pipelines, and applied concepts like relational databases and dimensional modeling. I’ve also begun developing skills in UX/UI design, which I now apply to create intuitive, user-friendly data visualizations that support decision-making across teams.
+To showcase my capabilities, I’ve completed a series of sample projects focused on financial reporting and operational optimization. These projects reflect my ability to translate complex data into actionable insights and demonstrate how I combine technical proficiency with business context.
+I’m now seeking to transition into a dedicated Data Analyst role where I can bring together my hospitality expertise and analytical skill set. While I understand that I’m entering a new field, I’m fully prepared to start in an entry-level position that allows me to continue learning and applying my skills in a professional setting. My ability to interpret data within a business context and communicate insights clearly to stakeholders makes me uniquely positioned to add value in environments that demand both technical rigor and operational intuition.
