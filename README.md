@@ -3,6 +3,6 @@ With nearly 30 years of experience in the hospitality industry, including senior
 Throughout my career, I’ve relied on data to guide strategic choices, optimize operations, and elevate guest experiences. From forecasting and cost control to performance tracking and project planning, data has been central to how I lead and innovate. Recognizing the growing importance of analytics, I recently completed a 7-month specialization in Data Analysis at the University of Athens.
 
 Through this journey, I’ve developed practical experience with tools such as Power BI, SQL, Power Pivot, and Power Query. I’ve built interactive dashboards, worked with ETL pipelines, and applied concepts like relational databases and dimensional modeling. I’ve also begun developing skills in UX/UI design, which I now apply to create intuitive, user-friendly data visualizations that support decision-making across teams.
-To showcase my capabilities, I’ve completed a series of sample projects focused on financial reporting and operational optimization. These projects reflect my ability to translate complex data into actionable insights and demonstrate how I combine technical proficiency with business context.  
+To showcase my capabilities, I’ve completed a series of sample projects focused on financial reporting and operational optimization. These projects reflect my ability to translate complex data into actionable insights and demonstrate how I combine technical proficiency with real-world Hospitality business context.  
 
 
